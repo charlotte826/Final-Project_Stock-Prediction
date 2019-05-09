@@ -28,15 +28,13 @@ The purpose of the project is to predict the stock market using machine learning
 
 ### Visualizations
 
-#### Price
-##### Implementation
+#### Price: Implementation
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.16%20AM.png)
-##### Performance
+#### Price: Performance
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.17%20AM.png)
-#### Sentiment
-##### Analysis
+#### Sentiment: Analysis
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.23%20AM.png)
-##### Analysis
+#### Sentiment: Analysis
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.23%20AM%201.png)
-##### Performance
+#### Sentiment: Performance
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.24%20AM.png)
