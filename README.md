@@ -15,11 +15,11 @@ The purpose of the project is to predict the stock market using machine learning
 * Stock Predictor (Price): 
   * How can I maximize profit?
   * Algorithms: Linear regression 
-  * Data: Historical closing price data from Yahoo Finance
+  * Data: Historical closing price data from Yahoo! Finance
 * Economy Predictor (Sentiment): 
   * How the economy is doing?
   * Algorithms: Naive Bayes classifier
-  * Data: Twitter feed content 
+  * Data: Credible investors' Twitter feed content 
 * Graphical User Interface: A stand-alone interactive website to show projections
 
 ### Data Sources
