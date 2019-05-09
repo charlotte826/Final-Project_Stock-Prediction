@@ -1,6 +1,6 @@
-# Project 1: A primer for starting a backyard farm business
+# Project 1: Stock Market Prediction using Machine Learning
 
-#### Group: Stock Market Predictors
+#### Group: Stock Market Fortune Tellers
 #### Team members: 
 * Harshit: https://github.com/hdhawan
 * Suneetha: https://github.com/sunired2001
@@ -28,10 +28,15 @@ The purpose of the project is to predict the stock market using machine learning
 
 ### Visualizations
 
-* Price
+#### Price
+##### Implementation
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.16%20AM.png)
+##### Performance
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.17%20AM.png)
-* Sentiment
+#### Sentiment
+##### Analysis
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.23%20AM.png)
+##### Analysis
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.23%20AM%201.png)
+##### Performance
 ![alt text](https://raw.githubusercontent.com/charlotte826/Final-Project_Stock-Prediction/master/Presentation%20Imagery/Screen%20Shot%202019-05-09%20at%206.51.24%20AM.png)
