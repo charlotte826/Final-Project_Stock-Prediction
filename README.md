@@ -13,11 +13,11 @@ The purpose of the project is to predict the stock market using machine learning
 ### Outline
 * This project attempts at creating an engine analyzing the market data to provide an estimate and movement direction for investor decision-making to maximize profit. The engine consists of a stock predictor (price) and economy predictor (sentiment). 
 * Stock Predictor (Price): 
-  * How will select ETFs perform?
+  * How will select stocks/ETFs perform?
   * Algorithms: Linear regression 
   * Data: Historical closing price data from Yahoo! Finance
 * Economy Predictor (Sentiment): 
-  * How will the stock market perform?
+  * How will the market behave?
   * Algorithms: Naive Bayes classifier
   * Data: Credible investors' Twitter feed content 
 * Graphical User Interface: A stand-alone interactive website to show projections
